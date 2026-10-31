@@ -1,0 +1,5 @@
+ctranslate2>=4.0
+transformers>=4.40,<5
+sentencepiece
+lingua-language-detector>=2.0
+# torch: only during installation (model conversion), installed then removed by install.py
